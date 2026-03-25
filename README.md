@@ -9,11 +9,11 @@
 ## 🔧 技术栈
 
 - **语言**：Python, C++, JavaScript (TypeScript)
-- **Web后端**：Flask, FastAPI (学习中)
-- **Web前端**：React / Next.js (基础)
+- **Web后端**：Flask, FastAPI 等 (学习中)
+- **Web前端**：React / Next.js 等 (基础)
 - **数据库**：MySQL, SQLite, Neo4j
 - **工具**：Git, Linux基础命令, Docker (了解)
-- **其他**：图数据库, 知识图谱, 算法设计
+- **其他**：人机交互，图数据库, 用户体验，知识图谱, 算法设计
 
 ---
 
