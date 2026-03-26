@@ -1,7 +1,7 @@
 # 👋 你好，我是Dai Yi
 
 🎓 Beijing Jiaotong University · CS
-💻 Tech AI HCI Idea   
+💻 Tech AI HCI Idea Biking Reading   
 🏠 内蒙古赤峰
 
 ---
