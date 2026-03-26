@@ -33,6 +33,12 @@
 - **工作内容**：参与系统功能测试，编写测试用例，协助开发定位Bug，熟悉项目迭代流程。
 - **技术**：黑盒测试, Bug追踪, 文档规范
 
+### 🎨 个人作品集网站 Demo
+- **简介**：使用 Next.js + Tailwind CSS 搭建的个人展示页，包含技术栈列表、项目亮点等。已部署至线上。
+- **技术栈**：Next.js, React, TypeScript, Tailwind CSS, Plotly.js
+- **线上预览**：[https://my-portfolio-gg3f-hzx193jyc-artist1016s-projects.vercel.app/]
+- **代码仓库**：[my-portfolio](https://github.com/artist1016/my-portfolio)
+
 ---
 
 ## 📫 联系我
